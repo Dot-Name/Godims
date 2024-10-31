@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Godims/static/css/main.fece1cf3.css",
-    "main.js": "/Godims/static/js/main.9faf31e9.js",
+    "main.js": "/Godims/static/js/main.57b77bd7.js",
     "static/media/web_developing.gif": "/Godims/static/media/web_developing.3a6b9048806bd55621f6.gif",
     "static/media/web-hosting.gif": "/Godims/static/media/web-hosting.2a80874da07ba3f0884f.gif",
     "static/media/2.png": "/Godims/static/media/2.9509c5881dbba08959db.png",
@@ -11,7 +11,6 @@
     "static/media/5.png": "/Godims/static/media/5.6844084ebc46e59778d0.png",
     "static/media/dhruv.png": "/Godims/static/media/dhruv.3dafdf863f4af49e6e6a.png",
     "static/media/p4.png": "/Godims/static/media/p4.d4fad9853c91b7898740.png",
-    "static/media/abs.png": "/Godims/static/media/abs.96ca49eeb49aa6a2302c.png",
     "static/media/p1.png": "/Godims/static/media/p1.ad488b0539ce3b805725.png",
     "static/media/p3.png": "/Godims/static/media/p3.24cdb3d00cf01495cee5.png",
     "static/media/p2.png": "/Godims/static/media/p2.501afd759fa820f24638.png",
@@ -28,6 +27,7 @@
     "static/media/hosting.webp": "/Godims/static/media/hosting.13ae8e691b6e281da7a1.webp",
     "static/media/graphic design.gif": "/Godims/static/media/graphic design.8e5897210421174fd8d7.gif",
     "static/media/Poppins-Regular.ttf": "/Godims/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/about.webp": "/Godims/static/media/about.59674fd67a13c7a72de1.webp",
     "static/media/UI UX.gif": "/Godims/static/media/UI UX.c2a86f9fcb2eaf0b3a83.gif",
     "static/media/imran.png": "/Godims/static/media/imran.89d3ebc08f46717169d4.png",
     "static/media/side.webp": "/Godims/static/media/side.751e48110a4132118669.webp",
@@ -40,10 +40,10 @@
     "static/media/new_logo_BA.avif": "/Godims/static/media/new_logo_BA.3aa0bd7fbd5cbd930498.avif",
     "index.html": "/Godims/index.html",
     "main.fece1cf3.css.map": "/Godims/static/css/main.fece1cf3.css.map",
-    "main.9faf31e9.js.map": "/Godims/static/js/main.9faf31e9.js.map"
+    "main.57b77bd7.js.map": "/Godims/static/js/main.57b77bd7.js.map"
   },
   "entrypoints": [
     "static/css/main.fece1cf3.css",
-    "static/js/main.9faf31e9.js"
+    "static/js/main.57b77bd7.js"
   ]
 }
